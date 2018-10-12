@@ -4,7 +4,6 @@ var app = {
     title:'Indecision App',
     subtitle: 'Suck mah balls'
 }
-
 //JSX - Javascript XML
 var template = (
 <div>
